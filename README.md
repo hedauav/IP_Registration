@@ -167,7 +167,7 @@ Whether you’re an indie artist or a full creative agency—Pulse lets you **ow
 - **Tanmay Gaikwad** – [GitHub](https://github.com/Tan0610)  
 - **Ansh Chopada** – [GitHub](https://github.com/Anshchopada11)
 - **Aniruddha Lahoti** – [GitHub](https://github.com/aniruddha1295)
-- ** Anish Hedau** -[GitHub](https://github.com/hedauav)
+- **Anish Hedau** -[GitHub](https://github.com/hedauav)
 
 Have suggestions? PRs are welcome!
 
