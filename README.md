@@ -169,7 +169,6 @@ Whether you’re an indie artist or a full creative agency—Pulse lets you **ow
 - **Aniruddha Lahoti** – [GitHub](https://github.com/aniruddha1295)
 - **Anish Hedau** -[GitHub](https://github.com/hedauav)
 
-Have suggestions? PRs are welcome!
 
 ## 💬 Let's Connect
 
