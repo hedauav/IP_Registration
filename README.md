@@ -172,6 +172,8 @@ Whether you’re an indie artist or a full creative agency—Pulse lets you **ow
 
 ## 💬 Let's Connect
 
+Have suggestions? PRs are welcome!
+
 Follow our journey as we redefine digital ownership and protect creators worldwide.
 
 > _“Your ideas. Your creation. Your rights. On-chain.”_
