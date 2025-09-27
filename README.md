@@ -168,6 +168,7 @@ Whether you’re an indie artist or a full creative agency—Pulse lets you **ow
 - **Ansh Chopada** – [GitHub](https://github.com/Anshchopada11)
 - **Aniruddha Lahoti** – [GitHub](https://github.com/aniruddha1295)
 - **Anish Hedau** -[GitHub](https://github.com/hedauav)
+- **Moro Sorial** -[GitHub](https://github.com/msorial)
 
 
 ## 💬 Let's Connect
